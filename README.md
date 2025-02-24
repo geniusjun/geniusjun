@@ -1,7 +1,7 @@
 ### 👋 안녕하세요! 노창준입니다.
 
 
-[📌 My Notion Portfolio](https://basalt-scribe-35f.notion.site/Hi-I-m-ChangJun-Rho-196f3b5f600880bb8715f312a0b28261?pvs=4)
+[📌 My Notion Portfolio] (https://basalt-scribe-35f.notion.site/Hi-I-m-ChangJun-Rho-196f3b5f600880bb8715f312a0b28261?pvs=4)
 
 
 ---
