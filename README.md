@@ -1,7 +1,7 @@
 ### 👋 안녕하세요! 노창준입니다.
 
 
-[![Notion Portfolio](https://img.shields.io/badge/My%20Notion%20Portfolio-%23000000?style=for-the-badge&logo=notion&logoColor=white)](https://basalt-scribe-35f.notion.site/Hi-I-m-ChangJun-Rho-196f3b5f600880bb8715f312a0b28261?pvs=4)
+[![Notion Portfolio](https://img.shields.io/badge/My%20Notion%20Portfolio-%23000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Hi-I-m-ChangJun-Rho-196f3b5f600880bb8715f312a0b28261?pvs=4)
 
 
 
