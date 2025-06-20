@@ -79,19 +79,19 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" style="margin-right: 12px;"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/>
   
-  <br><br>
+  <br>
 
   <!-- Line 2: Spring, Spring Boot, Unity -->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="margin-right: 12px;"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" style="margin-right: 12px;"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
   
-  <br><br>
+  <br>
 
   <!-- Line 3: MySQL -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
-  <br><br>
+  <br>
 
   <!-- Line 4: Git, GitHub -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" style="margin-right: 12px;"/>
