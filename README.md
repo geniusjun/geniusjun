@@ -35,6 +35,71 @@
 </div>
 
 
+## 🔥 What I'm experiencing now
+
+<table>
+  <thead>
+    <tr>
+      <th>경험</th>
+      <th>기간</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.gachon.ac.kr/" target="_blank">🎓 Gachon University, Department of Software</a> Undergraduate Student</td>
+      <td>2021.03 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://example.com" target="_blank">🚀 비난과 조롱 없는 클린 스포츠 커뮤니티, 와플</a> iOS Developer</td>
+      <td>2025.02 ~</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+## 📚 What I'm experienced
+
+<table>
+  <thead>
+    <tr>
+      <th>경험</th>
+      <th>기간</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#">🍏 University Makeus Challenge</a> Gachon 4th iOS</td>
+      <td>2023.03 ~ 2023.08</td>
+    </tr>
+    <tr>
+      <td><a href="#">🔬 WISET Engineering Research Team Program</a>, Research team member</td>
+      <td>2023.04 ~ 2023.10</td>
+    </tr>
+    <tr>
+      <td>👥 번개 모임 기반 소셜 서비스, 흔들장 iOS Developer</td>
+      <td>2023.06</td>
+    </tr>
+    <tr>
+      <td><a href="#">📘 BookJam</a> iOS Developer</td>
+      <td>2023.07 ~ 2024.06</td>
+    </tr>
+    <tr>
+      <td>🐣 동아리 첫 시작은, 동방 iOS Developer</td>
+      <td>2023.08</td>
+    </tr>
+    <tr>
+      <td>🧑‍🎨 커뮤니티의 주인이 바뀐다, 모집사 Designer</td>
+      <td>2023.08 ~ 2023.09</td>
+    </tr>
+    <tr>
+      <td><a href="#">📐 University Makeus Challenge</a> Gachon 5th Design</td>
+      <td>2023.09 ~ 2024.02</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
 
 
 
