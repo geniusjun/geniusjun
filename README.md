@@ -18,27 +18,24 @@
 
 <br/>
 
-<!-- 👣 깃 힛츠 -->
+<!-- 👣 Hit Counter + Contact Icons -->
 <div align="center">
-  <a href="https://myhits.vercel.app">
+  <a href="https://myhits.vercel.app" style="text-decoration: none; margin-right: 16px;">
     <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fgeniusjun?color=blue&label=hits&size=small" />
   </a>
-</div>
-
-<br/>
-
-## 📬 Contact Me
-<div align="left"> 
-  <a href="https://geniusjun4663.tistory.com/" style="text-decoration: none; margin-right: 10px;">
+  <a href="https://geniusjun4663.tistory.com/" style="text-decoration: none; margin-right: 16px;">
     <img src="https://img.shields.io/badge/Tistory-FF5C5C?style=flat-square&logo=Tistory&logoColor=white"/>
   </a>
-  <a href="https://www.notion.so/196f3b5f600880bb8715f312a0b28261" style="text-decoration: none; margin-right: 10px;">
+  <a href="https://www.notion.so/196f3b5f600880bb8715f312a0b28261" style="text-decoration: none; margin-right: 16px;">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
   <a href="mailto:geniusjun4663@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </div>
+
+
+
 
 <br/>
 
