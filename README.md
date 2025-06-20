@@ -29,10 +29,10 @@
 
 ## 📬 Contact Me
 <div align="left"> 
-  <a href="https://geniusjun4663.tistory.com/">
+  <a href="https://geniusjun4663.tistory.com/" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Tistory-FF5C5C?style=flat-square&logo=Tistory&logoColor=white"/>
   </a>
-  <a href="https://www.notion.so/196f3b5f600880bb8715f312a0b28261">
+  <a href="https://www.notion.so/196f3b5f600880bb8715f312a0b28261" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
   <a href="mailto:geniusjun4663@gmail.com">
@@ -44,13 +44,26 @@
 
 ## 💻 Tech Stacks
 <div align="left"> 
+  <!-- Line 1: Java, C, C++, C# -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/>
+  <br>
+
+  <!-- Line 2: Spring, Spring Boot, Unity -->
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+  <br>
+
+  <!-- Line 3: MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <br>
+
+  <!-- Line 4: Git, GitHub -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
 
 <br/>
