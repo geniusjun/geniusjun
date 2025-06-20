@@ -6,6 +6,8 @@
   <b>사용자의 입장에서 고민하고<br>실질적인 가치를 구현하는 개발자, <u>노창준</u>입니다.</b>
 </div>
 
+<hr/>
+
 <br/>
 
 <div align="center">
@@ -25,31 +27,30 @@
 
 <br/>
 
-## 🛠️ Tech Stacks
+## 📬 Contact Me
 <div align="left"> 
-  <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
+  <a href="https://geniusjun4663.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-FF5C5C?style=flat-square&logo=Tistory&logoColor=white"/>
+  </a>
+  <a href="https://www.notion.so/196f3b5f600880bb8715f312a0b28261">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  </a>
+  <a href="mailto:geniusjun4663@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
 </div>
 
 <br/>
 
-## 🧑‍💻 Contact me
+## 💻 Tech Stacks
 <div align="left"> 
-  <a href="https://geniusjun4663.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white"/>
-  </a>
-  <a href="https://www.notion.so/196f3b5f600880bb8715f312a0b28261">
-    <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/>
-  </a>
-  <a href="mailto:geniusjun4663@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 </div>
 
 <br/>
