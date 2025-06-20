@@ -18,14 +18,15 @@
 
 <br/>
 
-<!-- 👣 Hit Counter + Contact Icons (No blue dots) -->
 <div align="center">
   <a href="https://myhits.vercel.app" target="_blank">
     <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fgeniusjun?color=blue&label=hits&size=small" alt="hits" />
+  </a>
+  <br>
   <a href="https://www.notion.so/196f3b5f600880bb8715f312a0b28261" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/>
+  </a>
 </div>
-
 
 ## 🔥 What I'm experiencing now
 
@@ -103,13 +104,9 @@
 
 ## 🏅 Baekjoon
 <div align="left">
-
-  <a href="https://solved.ac/profile/geniusjun4663" target="_blank">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=geniusjun4663" style="margin-right: 10px;"/>
-  </a>
   
-  <img src="https://mazandi.herokuapp.com/api?handle=geniusjun4663&theme=cold" alt="mazandi" />
+  [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=geniusjun4663)](https://solved.ac/profile/geniusjun4663)
 
-
+  ![mazandi profile](https://mazandi.herokuapp.com/api?handle=geniusjun4663&theme=cold)
 
 </div>
