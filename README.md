@@ -101,11 +101,15 @@
 
 <br/>
 
-## 🏅 Baekjoon & Mazandi
+## 🏅 Baekjoon
 <div align="left">
-  
-  [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=geniusjun4663)](https://solved.ac/profile/geniusjun4663)
 
-  ![mazandi profile](https://mazandi.herokuapp.com/api?handle=geniusjun4663&theme=cold)
+  <a href="https://solved.ac/profile/geniusjun4663" target="_blank">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=geniusjun4663" style="margin-right: 10px;"/>
+  </a>
+  
+  <img src="https://mazandi.herokuapp.com/api?handle=geniusjun4663&theme=cold" alt="mazandi" />
+
+
 
 </div>
