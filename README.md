@@ -1,4 +1,4 @@
-### 👋 안녕하세요! 노창준입니다.
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00)
 
 
 [![Notion Portfolio](https://img.shields.io/badge/My%20Notion%20Portfolio-%23000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Hi-I-m-ChangJun-Rho-196f3b5f600880bb8715f312a0b28261?pvs=4)
