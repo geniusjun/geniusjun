@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3d9de6&height=180&text=Noeul's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" />
 </div>
 
+<div align="center">
+  <b>사용자의 입장에서 고민하고<br>실질적인 가치를 구현하는 개발자, <u>노창준</u>입니다.</b>
+</div>
+
 <br/>
 
 <div align="center">
@@ -10,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniusjun&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
 </div>
 
-
+<br/>
 
 <!-- 👣 깃 힛츠 -->
 <div align="center">
