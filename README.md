@@ -18,27 +18,19 @@
 
 <br/>
 
-<!-- 👣 Hit Counter + Contact Icons -->
+<!-- 👣 Hit Counter + Contact Icons (No blue dots) -->
 <div align="center">
   <a href="https://myhits.vercel.app" target="_blank">
-    <span>
-      <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fgeniusjun?color=blue&label=hits&size=small" />
-    </span>
+    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fgeniusjun?color=blue&label=hits&size=small" alt="hits" />
   </a>
   <a href="https://geniusjun4663.tistory.com/" target="_blank">
-    <span>
-      <img src="https://img.shields.io/badge/Tistory-FF5C5C?style=flat-square&logo=Tistory&logoColor=white"/>
-    </span>
+    <img src="https://img.shields.io/badge/Tistory-FF5C5C?style=flat-square&logo=Tistory&logoColor=white" alt="Tistory"/>
   </a>
   <a href="https://www.notion.so/196f3b5f600880bb8715f312a0b28261" target="_blank">
-    <span>
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-    </span>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/>
   </a>
   <a href="mailto:geniusjun4663@gmail.com">
-    <span>
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
-    </span>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
