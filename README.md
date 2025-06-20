@@ -59,11 +59,9 @@
   </thead>
   <tbody>
     <tr>
-      <td>
-        <a href="#">:herb: University Makeus Challenge</a> Gachon 8th Spring
-      </td>
-      <td>2023.03 ~ 2023.08</td>
-    </tr>
+  <td>🍀 University Makeus Challenge Gachon 8th Spring</td>
+  <td>2025.03 ~</td>
+</tr>
   </tbody>
 </table>
 
