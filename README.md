@@ -48,4 +48,8 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Noeul&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noeul&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geniusjun4663)](https://solved.ac/profile/geniusjun4663)
 </div>
+
+
+
