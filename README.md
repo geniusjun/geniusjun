@@ -22,16 +22,8 @@
 <div align="center">
   <a href="https://myhits.vercel.app" target="_blank">
     <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fgeniusjun?color=blue&label=hits&size=small" alt="hits" />
-  </a>
-  <a href="https://geniusjun4663.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-FF5C5C?style=flat-square&logo=Tistory&logoColor=white" alt="Tistory"/>
-  </a>
   <a href="https://www.notion.so/196f3b5f600880bb8715f312a0b28261" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/>
-  </a>
-  <a href="mailto:geniusjun4663@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
-  </a>
 </div>
 
 
@@ -46,10 +38,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.gachon.ac.kr/" target="_blank">🎓 Gachon University, Department of Software</a> Undergraduate Student</td>
+      <td>
+        <a href="https://www.gachon.ac.kr/" target="_blank">🎓 Gachon University, Department of Software</a> Undergraduate Student
+      </td>
       <td>2022.03 ~</td>
-    </tr>
-    <tr>
     </tr>
   </tbody>
 </table>
@@ -67,32 +59,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="#">🍏 University Makeus Challenge</a> Gachon 4th iOS</td>
+      <td>
+        <a href="#">:herb: University Makeus Challenge</a> Gachon 8th Spring
+      </td>
       <td>2023.03 ~ 2023.08</td>
-    </tr>
-    <tr>
-      <td><a href="#">🔬 WISET Engineering Research Team Program</a>, Research team member</td>
-      <td>2023.04 ~ 2023.10</td>
-    </tr>
-    <tr>
-      <td>👥 번개 모임 기반 소셜 서비스, 흔들장 iOS Developer</td>
-      <td>2023.06</td>
-    </tr>
-    <tr>
-      <td><a href="#">📘 BookJam</a> iOS Developer</td>
-      <td>2023.07 ~ 2024.06</td>
-    </tr>
-    <tr>
-      <td>🐣 동아리 첫 시작은, 동방 iOS Developer</td>
-      <td>2023.08</td>
-    </tr>
-    <tr>
-      <td>🧑‍🎨 커뮤니티의 주인이 바뀐다, 모집사 Designer</td>
-      <td>2023.08 ~ 2023.09</td>
-    </tr>
-    <tr>
-      <td><a href="#">📐 University Makeus Challenge</a> Gachon 5th Design</td>
-      <td>2023.09 ~ 2024.02</td>
     </tr>
   </tbody>
 </table>
