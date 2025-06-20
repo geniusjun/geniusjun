@@ -47,11 +47,9 @@
   <tbody>
     <tr>
       <td><a href="https://www.gachon.ac.kr/" target="_blank">🎓 Gachon University, Department of Software</a> Undergraduate Student</td>
-      <td>2021.03 ~</td>
+      <td>2022.03 ~</td>
     </tr>
     <tr>
-      <td><a href="https://example.com" target="_blank">🚀 비난과 조롱 없는 클린 스포츠 커뮤니티, 와플</a> iOS Developer</td>
-      <td>2025.02 ~</td>
     </tr>
   </tbody>
 </table>
