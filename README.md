@@ -2,7 +2,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3d9de6&height=180&text=Noeul's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" />
 </div>
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fgeniusjun?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+<br/>
+
+<div align="center">
+  <!-- 📊 GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=geniusjun&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniusjun&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
+</div>
+
+<!-- 👣 깃 힛츠 -->
+<div align="center">
+  <a href="https://myhits.vercel.app">
+    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fgeniusjun?color=blue&label=hits&size=small" />
+  </a>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNoeul%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
+  </a>
+</div>
 
 <br/>
 
@@ -35,25 +51,11 @@
 
 <br/>
 
+## 🏅 Baekjoon & Mazandi
 <div align="left">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNoeul%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
-  </a>
-</div>
-
-<br/>
-
-## 🏅 Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=geniusjun&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniusjun&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
-
   
   [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=geniusjun4663)](https://solved.ac/profile/geniusjun4663)
 
-![mazandi profile](https://mazandi.herokuapp.com/api?handle=geniusjun4663&theme=cold)
+  ![mazandi profile](https://mazandi.herokuapp.com/api?handle=geniusjun4663&theme=cold)
 
 </div>
-
-
-
