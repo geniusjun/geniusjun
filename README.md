@@ -60,7 +60,7 @@
   <tbody>
     <tr>
   <td>🍀 University Makeus Challenge Gachon 8th Spring</td>
-  <td>2025.03 ~</td>
+  <td>2025.03 ~ 2025.08</td>
 </tr>
   </tbody>
 </table>
