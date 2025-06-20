@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3d9de6&height=180&text=Noeul's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" />
 </div>
 
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fgeniusjun?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+
 <br/>
 
 ## 🛠️ Tech Stacks
