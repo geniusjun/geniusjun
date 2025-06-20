@@ -52,7 +52,7 @@
   
   [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=geniusjun4663)](https://solved.ac/profile/geniusjun4663)
 
-![mazandi profile](https://mazandi.herokuapp.com/api?handle=geniusjun4663&theme=warm)
+![mazandi profile](https://mazandi.herokuapp.com/api?handle=geniusjun4663&theme=cold)
 
 </div>
 
