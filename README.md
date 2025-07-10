@@ -70,20 +70,9 @@
 
 ## 🏆 Prize
 
-<table>
-  <thead>
-    <tr>
-      <th>수상</th>
-      <th>내용</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>UMC 8th Hackathon</td>
-      <td>최우수상 수상</td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/badge/UMC%208th%20Hackathon-최우수상-%23FFD700?style=for-the-badge&logo=Star&logoColor=white" alt="UMC Hackathon 최우수상" />
+</div>
 
 <br/>
 
