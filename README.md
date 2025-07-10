@@ -68,6 +68,25 @@
 
 <br/>
 
+## 🏆 Prize
+
+<table>
+  <thead>
+    <tr>
+      <th>수상</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UMC 8th Hackathon</td>
+      <td>최우수상 수상</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
 
  
 <br/>
