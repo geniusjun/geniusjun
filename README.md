@@ -42,7 +42,7 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://www.gachon.ac.kr/" target="_blank">🎓 Gachon University, Department of Software Undergraduate Student</a>
+        <a href="https://www.gachon.ac.kr/" target="_blank">🎓 Gachon University</a>, Department of Software Undergraduate Student
       </td>
       <td>2022.03 ~</td>
     </tr>
