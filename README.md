@@ -42,7 +42,11 @@
       <td>
         <a href="https://www.gachon.ac.kr/" target="_blank">🎓 Gachon University, Department of Software</a> Undergraduate Student
       </td>
+      <td>
+        🍀 University Makeus Challenge Gachon 9th Spring 파트장
+      </td>
       <td>2022.03 ~</td>
+      <td>2025.09 ~</td>
     </tr>
   </tbody>
 </table>
@@ -60,7 +64,7 @@
   </thead>
   <tbody>
     <tr>
-  <td>🍀 University Makeus Challenge Gachon 8th Spring</td>
+  <td>🍀 University Makeus Challenge Gachon 8th Spring 챌린저 </td>
   <td>2025.03 ~ 2025.08</td>
 </tr>
   </tbody>
