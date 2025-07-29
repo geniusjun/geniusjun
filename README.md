@@ -30,28 +30,19 @@
 
 ## 🔥 What I'm experiencing now
 
-<table>
-  <thead>
-    <tr>
-      <th>경험</th>
-      <th>기간</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://www.gachon.ac.kr/" target="_blank">🎓 Gachon University, Department of Software</a> Undergraduate Student
-      </td>
-      <td>
-        🍀 University Makeus Challenge Gachon 9th Spring 파트장
-      </td>
-      <td>2022.03 ~</td>
-      <td>2025.09 ~</td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
+<ul>
+  <li>
+    <strong>🎓 <a href="https://www.gachon.ac.kr/" target="_blank">Gachon University, Department of Software</a></strong><br/>
+    Undergraduate Student<br/>
+    <em>2022.03 ~</em>
+  </li>
+  <br/>
+  <li>
+    <strong>🍀 University Makeus Challenge Gachon 9th</strong><br/>
+    Spring 파트장<br/>
+    <em>2025.09 ~</em>
+  </li>
+</ul>
 
 ## 📚 What I'm experienced
 
