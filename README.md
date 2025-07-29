@@ -40,15 +40,13 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://www.gachon.ac.kr/" target="_blank">🎓 Gachon University, Department of Software</a><br/>
-        Undergraduate Student
+        <a href="https://www.gachon.ac.kr/" target="_blank">🎓 Gachon University, Department of Software Undergraduate Student </a><br/>
       </td>
       <td>2022.03 ~</td>
     </tr>
     <tr>
       <td>
-        🍀 University Makeus Challenge Gachon 9th<br/>
-        Spring 파트장
+        🍀 University Makeus Challenge Gachon 9th Spring 파트장<br/>
       </td>
       <td>2025.08 ~</td>
     </tr>
