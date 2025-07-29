@@ -66,11 +66,16 @@
   </thead>
   <tbody>
     <tr>
-  <td>🍀 University Makeus Challenge Gachon 8th Spring 챌린저 </td>
-  <td>2025.03 ~ 2025.08</td>
-</tr>
+      <td>🍀 University Makeus Challenge Gachon 8th Spring 챌린저</td>
+      <td>2025.03 ~ 2025.08</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.gachon.ac.kr/" target="_blank">🔥 오늘 하루, 마음에 담은 감정은 뭔가요? 화록 BackEnd Developer</td>
+      <td>2025.06 ~ 2025.08</td>
+    </tr>
   </tbody>
 </table>
+
 
 <br/>
 
