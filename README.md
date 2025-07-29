@@ -28,7 +28,6 @@
   </a>
 </div>
 
-## 🔥 What I'm experiencing now
 
 ## 🔥 What I'm experiencing now 
 
@@ -57,7 +56,6 @@
 
 <br/>
 
-## 📚 What I'm experienced
 
 ## 📚 What I'm experienced
 
