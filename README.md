@@ -30,6 +30,8 @@
 
 ## 🔥 What I'm experiencing now
 
+## 🔥 What I'm experiencing now 
+
 <table>
   <thead>
     <tr>
@@ -40,20 +42,20 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://www.gachon.ac.kr/" target="_blank">🎓 Gachon University, Department of Software Undergraduate Student </a><br/>
+        <a href="https://www.gachon.ac.kr/" target="_blank">🎓 Gachon University, Department of Software Undergraduate Student</a>
       </td>
       <td>2022.03 ~</td>
     </tr>
     <tr>
       <td>
-        🍀 University Makeus Challenge Gachon 9th Spring 파트장<br/>
+        <a href="https://umc.makeus.in/" target="_blank">🍀 University Makeus Challenge</a> Gachon 9th Spring 파트장
       </td>
       <td>2025.08 ~</td>
     </tr>
   </tbody>
 </table>
 
-
+<br/>
 
 ## 📚 What I'm experienced
 
@@ -66,11 +68,15 @@
   </thead>
   <tbody>
     <tr>
-      <td>🍀 University Makeus Challenge Gachon 8th Spring 챌린저</td>
+      <td>
+        <a href="https://umc.makeus.in/" target="_blank">🍀 University Makeus Challenge</a> Gachon 8th Spring 챌린저
+      </td>
       <td>2025.03 ~ 2025.08</td>
     </tr>
     <tr>
-      <td><a href="https://www.gachon.ac.kr/" target="_blank">🔥 오늘 하루, 마음에 담은 감정은 뭔가요? 화록 BackEnd Developer</td>
+      <td>
+        🔥 <a href="https://github.com/HwaRoak/HwaRoak_BE" target="_blank">오늘 하루, 마음에 담은 감정은 뭔가요? 화록</a> BackEnd Developer
+      </td>
       <td>2025.06 ~ 2025.08</td>
     </tr>
   </tbody>
