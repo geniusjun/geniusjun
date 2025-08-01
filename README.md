@@ -24,7 +24,7 @@
 
 <hr/>
 
-<div align="center">
+<div align="left">
   <h2>📬 Contact Me!</h2>
   <a href="mailto:geniusjun4663@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
