@@ -5,9 +5,6 @@
 <div align="center">
   <b>사용자의 입장에서 고민하고<br>실질적인 가치를 구현하는 개발자, <u>노창준</u>입니다.</b>
 </div>
-
-<hr/>
-
 <br/>
 
 <div align="center">
