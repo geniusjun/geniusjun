@@ -98,6 +98,34 @@
 
 <br/>
 
+## 🌍 Open Source Contribution
+
+<table>
+  <thead>
+    <tr>
+      <th>프로젝트</th>
+      <th>내용</th>
+      <th>기간</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://gravitino.apache.org/" target="_blank">⚡ Apache Gravitino</a>
+      </td>
+      <td>
+        Contributed new feature to CLI parser: <br/>
+        Support for <code>decimal(p)</code> with default <code>scale=0</code> 🎉 <br/>
+        <a href="https://github.com/apache/gravitino/pull/8679" target="_blank">[Merged PR #8679]</a>
+      </td>
+      <td>2025.09</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+
 ## 🏆 Prize
 
 <table>
