@@ -25,14 +25,19 @@
 
 <div align="left">
   <h2>📬 Contact Me!</h2>
-  <a href="mailto:geniusjun4663@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
   <a href="https://www.notion.so/196f3b5f600880bb8715f312a0b28261" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/>
   </a>
+  &nbsp;
+  <a href="https://geniusjun4663.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white" alt="Tistory Blog"/>
+  </a>
+  &nbsp;
+  <a href="mailto:geniusjun4663@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
+
 
 
 ## 🌍 Open Source Contribution
