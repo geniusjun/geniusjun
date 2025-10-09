@@ -110,7 +110,7 @@
       <td>
         🕹️ 가천대 새내기들을 위한 게임, <a href="https://play.google.com/store/apps/details?id=com.NouelStudio.RunFreshman&hl=ko" target="_blank">도망가 새내기!</a>
       </td>
-      <td>2025.02 ~ 2025.03</td>
+      <td>2024.07 ~ 2025.03</td>
     </tr>
     <tr>
       <td>
