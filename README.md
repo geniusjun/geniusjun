@@ -1,4 +1,4 @@
-# 안녕하세요 백엔드 개발자 노창준입니다
+# Hello, I'm a developer who tries to talk with code.
 
 ## 🌍 Open Source Contribution
 
