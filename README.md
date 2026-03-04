@@ -1,4 +1,4 @@
-# Hello, I'm a developer who tries to talk with code.
+# Hi, I'm a developer who grows with the team.
 
 ## 🌍 Open Source Contribution
 
