@@ -18,7 +18,7 @@
 ## 📂 Projects
 - **2026.02 ~ ing** | OJik - 야구 직관 기록 앱 — PM, BE, FE
 
-- **2026.11 ~ 202612** | [우아한테크코스 오픈 미션 로또 앱](https://github.com/geniusjun/woowa-lotto-spring) - 1인 프로젝트 
+- **2026.11 ~ 2026.12** | [우아한테크코스 오픈미션 로또 앱](https://github.com/geniusjun/woowa-lotto-spring) - 1인 프로젝트 
 
 - **2025.06 ~ 2025.08** | [HwaRoak - 감정 기반 AI 다이어리 앱](https://github.com/geniusjun/HwaRoak_BE) — BE
 
