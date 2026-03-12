@@ -13,7 +13,7 @@
 
 - [Apache Gravitino : Fix SessionUtils transaction cleanup for non-Exception throwables](https://github.com/apache/gravitino/pull/10335)
 
-- [Braillify : Contribute test case to Korean Braille translation library](https://github.com/dev-five-git/braillify/pulls?q=is%3Apr+is%3Aclosed)
+- [Braillify : Contribute test case to Korean Braille translation library](https://github.com/dev-five-git/braillify/pull/144)
 
 ## 📂 Projects
 - **2026.02 ~ ing** | OJik - 야구 직관 기록 앱 — PM, BE, FE
