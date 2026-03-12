@@ -11,7 +11,7 @@
 
 - [Apache Gravitino : Improve decimal precision handling in CLI output](https://github.com/apache/gravitino/pull/8679)
 
-- [Apache Gravitino : Fix SessionUtils transaction cleanup for non-Exception throwables](https://github.com/apache/gravitino/issues/10177)
+- [Apache Gravitino : Fix SessionUtils transaction cleanup for non-Exception throwables](https://github.com/apache/gravitino/pull/10335)
 
 - [Braillify : Contribute test case to Korean Braille translation library](https://github.com/dev-five-git/braillify/pulls?q=is%3Apr+is%3Aclosed)
 
