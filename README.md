@@ -1,7 +1,7 @@
 # Hi👋 I'm a developer who grows with the team.
 
 ## 🏛️ Activities
-- **2025.09 ~ 2025.12** | **Gachon Univ UMC 9th** — Spring Boot Part Leader
+- **2025.08 ~ 2026.02** | **Gachon Univ UMC 9th** — Spring Boot Part Leader
   
 - **2025.03 ~ 2025.08** | **Gachon Univ UMC 8th** — Spring Boot
   
