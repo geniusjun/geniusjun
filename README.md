@@ -22,7 +22,7 @@
 
 - **2025.06 ~ 2025.08** | [HwaRoak - 감정 기반 AI 다이어리 앱](https://github.com/geniusjun/HwaRoak_BE) — BE
 
-- **2024.10 ~ 2025.03** | [가천대 학생들이 즐길 수 있는 뱀서류 게임](https://github.com/geniusjun?tab=repositories) — Developer, PM
+- **2024.10 ~ 2025.03** | [가천대 학생들이 즐길 수 있는 뱀서류 게임](https://github.com/geniusjun/RunFreshman-) — Developer, PM
 
 <br/>
 
