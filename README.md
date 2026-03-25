@@ -10,7 +10,7 @@
 - **2026.03 ~ now** | **AI·SW 마에스트로** 17th
 - **2025.08 ~ 2026.02** | **Gachon Univ UMC 9th** — Spring Boot Part Leader
 - **2025.03 ~ 2025.08** | **Gachon Univ UMC 8th** — Spring Boot
-- **2022.03 ~ 2027.02** | **Gachon Univ** — Department of Software
+- **2022.03 ~ 2027.12** | **Gachon Univ** — Department of Software
 
 ## 🌱 Open Source Contributions
 
