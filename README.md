@@ -13,10 +13,9 @@
 - **2022.03 ~ 2027.12** | **Gachon Univ** — Department of Software
 
 ## 🌱 Open Source Contributions
-
-- [Apache Gravitino : Improve decimal precision handling in CLI output](https://github.com/apache/gravitino/pull/8679)
-- [Apache Gravitino : Fix SessionUtils transaction cleanup for non-Exception throwables](https://github.com/apache/gravitino/pull/10335)
 - [Apache Gravitino : Prevent NPE when statistics update request body is null](https://github.com/apache/gravitino/pull/10190)
+- [Apache Gravitino : Fix SessionUtils transaction cleanup for non-Exception throwables](https://github.com/apache/gravitino/pull/10335)
+- [Apache Gravitino : Improve decimal precision handling in CLI output](https://github.com/apache/gravitino/pull/8679)
 - [Braillify : Contribute test case to Korean Braille translation library](https://github.com/dev-five-git/braillify/pull/144)
 
 ## 📂 Projects
