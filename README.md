@@ -1,4 +1,4 @@
-# Hi👋 I'm a engineer who grows with the team.
+# Hi👋 I'm an engineer who grows together with the team.
 
 ## 🛠️ Tech Stack
 <p align="center"> <!-- Back-end --> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <br><br> 
