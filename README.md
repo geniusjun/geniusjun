@@ -19,10 +19,10 @@
 - [Braillify : Contribute test case to Korean Braille translation library](https://github.com/dev-five-git/braillify/pull/144)
 
 ## 📂 Projects
-- **2026.02 ~ ing** | OJik - 야구 직관 기록 앱 — PM, BE, FE
+- **2026.06 ~ ing** | reminedo - 알림을 누르면 실천이 되는 리마인더 앱 - Dev, PM
 - **2026.11 ~ 2026.12** | [우아한테크코스 오픈미션 로또 앱](https://github.com/geniusjun/woowa-lotto-spring) - 1인 프로젝트 
 - **2025.06 ~ 2025.08** | [HwaRoak - 감정 기반 AI 다이어리 앱](https://github.com/HwaRoak/HwaRoak_BE) — BE
-- **2024.10 ~ 2025.03** | [가천대 학생들이 즐길 수 있는 뱀서류 게임](https://github.com/geniusjun/RunFreshman-) — Developer, PM
+- **2024.10 ~ 2025.03** | [가천대 학생들이 즐길 수 있는 뱀서류 게임](https://github.com/geniusjun/RunFreshman-) — Dev, PM
 
 <br/>
 
