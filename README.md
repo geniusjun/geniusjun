@@ -17,11 +17,10 @@
 - [Apache Gravitino : Fix SessionUtils transaction cleanup for non-Exception throwables](https://github.com/apache/gravitino/pull/10335)
 - [Apache Gravitino : Improve decimal precision handling in CLI output](https://github.com/apache/gravitino/pull/8679)
 
-## 📂 Projects
+## 🍀 My Products
 - **2026.06 ~ ing** | reminedo - 알림을 누르면 실천이 되는 리마인더 앱 - Dev, PM - [출시 링크](https://apps.apple.com/kr/app/%EB%A6%AC%EB%A7%88%EC%9D%B8%EB%91%90/id6782855047)
-- **2026.11 ~ 2026.12** | [우아한테크코스 오픈미션 로또 앱](https://github.com/geniusjun/woowa-lotto-spring) - 1인 프로젝트 
-- **2025.06 ~ 2025.08** | [HwaRoak - 감정 기반 AI 다이어리 앱](https://github.com/HwaRoak/HwaRoak_BE) — BE
 - **2024.10 ~ 2025.03** | [가천대 학생들이 즐길 수 있는 뱀서류 게임](https://github.com/geniusjun/RunFreshman-) — Dev, PM
+- **2025.06 ~ 2025.08** | [HwaRoak - 감정 기반 AI 다이어리 앱](https://github.com/HwaRoak/HwaRoak_BE) — BE
 
 <br/>
 
