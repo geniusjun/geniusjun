@@ -1,4 +1,4 @@
-# Hi👋 I'm an engineer who grows together.
+# Hi👋 I'm ChangJun Rho
 
 ## 🍀 Products
 - **2026.07 ~ ing** | [BeCappy](https://github.com/SOMA-OneTwoThree) - 카피바라에게 고민을 털어놔! - A to Z - [출시 링크](https://apps.apple.com/kr/app/becappy-ai-%EC%B9%9C%EA%B5%AC-%EC%B9%B4%ED%94%BC%EB%B0%94%EB%9D%BC-%EA%B0%90%EC%A0%95-%EA%B3%A0%EB%AF%BC%EC%83%81%EB%8B%B4/id6784125709)
