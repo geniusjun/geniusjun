@@ -11,7 +11,7 @@
 - [Apache Gravitino : Improve decimal precision handling in CLI output](https://github.com/apache/gravitino/pull/8679)
 
 ## 📚 Study Together
-
+- [좋은 엔지니어가 되기 위하여](https://github.com/twopotato)
 - [객체지향 코드](https://github.com/geniusjun/oop-study)
 - [컴퓨터 구조 + 운영체제](https://github.com/dongne-up/Computer-Architecture-OS)
 
