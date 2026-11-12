@@ -1,7 +1,7 @@
 # Hi👋 I'm ChangJun Rho
 
 ## 🍀 Products
-- **2026.07 ~ ing** | [BeCappy](https://github.com/SOMA-OneTwoThree) - 카피바라와 함께하는 셀프케어 서비스 - [서비스 링크](https://becappy.io/)
+- **2026.07 ~ ing** | [BeCappy](https://github.com/SOMA-OneTwoThree) - 카피바라와 함께하는 셀프케어 서비스 - [서비스 링크](https://becappy.io/ja)
 - **2025.06 ~ 2025.08** | [HwaRoak](https://github.com/HwaRoak/HwaRoak_BE) - 감정 기반 AI 다이어리 서비스
 - **2024.10 ~ 2025.03** | [가천대 학생들이 즐길 수 있는 뱀서류 게임](https://github.com/geniusjun/RunFreshman-)
 
